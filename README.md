@@ -1,5 +1,20 @@
-# 💫 About Me:
-# Hi, I'm Remi 👋<br><br>🎓 **Bachelor of Science in Computer Science**  <br>Graduated **magna cum laude because of luck lol** in August 2023<br><br>💻 **Fullstack Developer**  <br>Currently working at a **logistics technology company**, building solutions that move businesses forward<br><br>🌟 I believe in lifelong learning, writing clean and scalable code, and enjoying every debugging battle (even the stubborn ones!)<br><br>✨ Outside of coding, I value curiosity, clarity, and making tech accessible for everyone.<br><br>
+# 💫 About Me
+
+## Hi, I'm Remi 👋
+
+🎓 **Bachelor of Science in Computer Science**  
+Graduated **magna cum laude** in August 2023
+
+💻 **Fullstack Developer**  
+Currently working at a **logistics technology company**, building scalable solutions that drive business growth and operational efficiency
+
+🌟 I'm passionate about continuous learning, writing clean and maintainable code, and tackling complex technical challenges with creative problem-solving
+
+✨ Outside of development, I'm driven by curiosity and committed to making technology more accessible and impactful for everyone
+
+---
+
+*Let's build something amazing together!*
 
 
 # 💻 Tech Stack:
