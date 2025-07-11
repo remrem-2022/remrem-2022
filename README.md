@@ -3,7 +3,7 @@
 ## Hi, I'm Remi 👋
 
 🎓 **Bachelor of Science in Computer Science**  
-Graduated **magna cum laude** in August 2023
+Graduated **magna cum laude by luck lol** in August 2023
 
 💻 **Fullstack Developer**  
 Currently working at a **logistics technology company**, building scalable solutions that drive business growth and operational efficiency
