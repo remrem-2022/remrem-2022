@@ -1,6 +1,4 @@
-# 💫 About Me
-
-## Hi, I'm Remi 👋
+# Hi, I'm Remi 👋
 
 🎓 **Bachelor of Science in Computer Science**  
 Graduated **magna cum laude by luck lol** in August 2023
